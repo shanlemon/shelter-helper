@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
-import shelterlist from '../test-data/shelters.json';
+import shelterlist from '../test-data/shelters.json'
 import TextResults from "../components/search-components/TextResults"
 import SearchInput from "../components/search-components/SearchInput"
+
 
 class Give extends Component {
 

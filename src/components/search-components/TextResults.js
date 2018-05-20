@@ -1,7 +1,6 @@
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-
-
+import ShelterItem from './ShelterItem'
 import './TextResults.css';
 
 class TextResults extends PureComponent {
@@ -11,7 +10,7 @@ class TextResults extends PureComponent {
       <div className="component-text-results">
         {this.props.textData.map((textData, i) =>
               <div key={i}>
-                   <h1>{textData.name}</h1>
+                   <ShelterItem shelter={textData} />
               </div>
           )}
       </div>
