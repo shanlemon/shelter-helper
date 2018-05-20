@@ -1,0 +1,39 @@
+[
+    {
+        "name" : "The Cannon",
+        "location" : {"longitude" : 29.795886, "latitude" : -95.569082},
+        "inventory" : [
+            {"item" : "shoes", "type" : "DONATION" },
+            {"item" : "shirts", "type" : "DONATION" },
+            {"item" : "pants", "type" : "DONATION" },
+            {"item" : "computer", "type" : "DONATION" },
+            {"item" : "toliet paper", "type" : "DONATION" },
+            {"item" : "tutoring", "type" : "SERVICE" },
+            {"item" : "volunteer", "type" : "SERVICE" }
+        ]
+    },
+    {
+        "name" : "Citizens For Animal Protection",
+        "location" : [29.783637, -95.684623],
+        "inventory" : [
+            {"item" : "dog food", "type" : "DONATION" },
+            {"item" : "cat food", "type" : "DONATION" },
+            {"item" : "food bowl", "type" : "DONATION" },
+            {"item" : "dog walking", "type" : "SERVICE" },
+            {"item" : "puppy care", "type" : "SERVICE" }
+        ]
+    },
+    {
+        "name" : "Shelter 3",
+        "location" : [29.795886, -95.569082],
+        "inventory" : [
+            {"item" : "shoes", "type" : "DONATION" },
+            {"item" : "shirts", "type" : "DONATION" },
+            {"item" : "pants", "type" : "DONATION" },
+            {"item" : "computer", "type" : "DONATION" },
+            {"item" : "toliet paper", "type" : "DONATION" },
+            {"item" : "tutoring", "type" : "SERVICE" },
+            {"item" : "volunteer", "type" : "SERVICE" }
+        ]
+    }
+]
